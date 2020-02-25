@@ -7,7 +7,9 @@ def name
   @this_dogs_name
 end
 
-def 
+def bark
+  puts "woof!"
+end
 
 
 
